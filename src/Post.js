@@ -19,5 +19,5 @@ export default function Post({ info }){
           {` ${body}`}
         </div>
       </div>
-    );
+    ); 
 }
